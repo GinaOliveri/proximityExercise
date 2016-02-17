@@ -1,0 +1,10 @@
+1. div 1 is about 350 cm.
+2. The size of the box became shorter
+3. Floating both right the columns move to the right side of the ruler
+4. Floating both left the columns move to the left side of the ruler
+5. When you change the browser window size, everything moves on the page
+6. Floating Div1 right and Div2 left results in them being on opposite sides of the page
+7. Changing the size to 2000px makes the light pink box stretch the length of the ruler
+8. When the divs are set to 35 and the container is set to 100, the columns move to the right side and the words don't all fit in the colored text boxes
+9. Resizing the browser window did nothing
+10.
